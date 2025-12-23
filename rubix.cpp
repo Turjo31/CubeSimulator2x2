@@ -194,8 +194,8 @@ int main()
                 front[1][1] = r2;
                 left[1][0] = f1;
                 left[1][1] = f2;
-                back[1][0] = r1;
-                back[1][1] = r2;
+                back[1][0] = l1;
+                back[1][1] = l2;
                 right[1][0] = ba1;
                 right[1][1] = ba2;
             }
@@ -214,8 +214,8 @@ int main()
                 front[0][1] = r2;
                 left[0][0] = f1;
                 left[0][1] = f2;
-                back[0][0] = r1;
-                back[0][1] = r2;
+                back[0][0] = l1;
+                back[0][1] = l2;
                 right[0][0] = ba1;
                 right[0][1] = ba2;
             }
